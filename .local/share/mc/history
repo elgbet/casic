@@ -1,0 +1,12 @@
+[cmdline]
+0=
+
+[Dir Hist New Right Panel]
+0=/root
+1=/
+2=/etc
+3=/etc/apache2
+4=/etc/apache2/sites-available
+
+[Dir Hist New Left Panel]
+0=/root
